@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15D6B8CF-4C08-47FF-A64C-E664F2B0B89A}</ProjectGuid>
+    <ProjectGuid>{23090730-E5E3-48C7-85BE-D9F294DA70FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharperClass20190330</RootNamespace>
-    <AssemblyName>CSharperClass20190330</AssemblyName>
+    <RootNamespace>Lab01</RootNamespace>
+    <AssemblyName>Lab01</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
